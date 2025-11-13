@@ -1,0 +1,6 @@
+.venv
+darkenstein_save_helper.egg-info/
+build/
+dist/
+darkenstein_save_helper.spec
+*.pyc

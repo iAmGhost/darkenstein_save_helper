@@ -1,0 +1,19 @@
+[project]
+name = "darkenstein-save-helper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+build_exe = "darkenstein_save_helper.build:build"
+
+[tool.uv]
+package = true
+
+[dependency-groups]
+dev = [
+    "pyinstaller>=6.16.0",
+]
+
