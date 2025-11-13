@@ -18,6 +18,11 @@ So all you need for Steam Cloud:
 * Backup/Restore `%LocalAppData%/Rowye/Darkenstein3D/darkenstein3d_save.reg` with Steam Cloud.
 
 
+# Download
+
+[Download latest version](https://github.com/iAmGhost/darkenstein_save_helper/releases/latest)
+
+
 # How to build
 
 This project uses [uv](https://docs.astral.sh/uv/) as package manager.
